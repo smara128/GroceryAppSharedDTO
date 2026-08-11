@@ -6,3 +6,5 @@
 //
 
 import Foundation
+
+typealias DTO = Codable & Identifiable & Hashable
